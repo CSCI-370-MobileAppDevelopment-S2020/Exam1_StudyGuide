@@ -29,7 +29,7 @@ Study guide for Exam #1
 ## Building Blocks
 * Views
 * ViewGroup
-* Layouts
+* Layouts (ConstraintLayout, LinearLayout, FrameLayout, GridLayout)
 * TextView
 * EditText
 * Button
@@ -38,6 +38,7 @@ Study guide for Exam #1
 ## Misc
 * Bundle
 * Key/Value
+* Extras
 * Saving state
 * Changing configuration with resources files (ie language)
 * Toast
@@ -49,9 +50,10 @@ Study guide for Exam #1
 * Polymorphism
 * Inheritance
 
-## Git/Github (maybe extra credit)
+## Git/Github
 * Know the difference between:
   * git add
   * git commit
   * git push
   * git and Github
+  * .git/config file
