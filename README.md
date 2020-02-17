@@ -43,6 +43,7 @@ Study guide for Exam #1
 * Changing configuration with resources files (ie language)
 * Toast
 * Log messages
+* ArrayAdapter
 
 ## Object Oriented Paradigms
 * Abstraction
